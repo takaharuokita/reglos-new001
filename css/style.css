@@ -7612,10 +7612,7 @@ body::-webkit-scrollbar {
 
 @media screen and (max-width:480px) {
     #player {
-        margin-top: -5%;
-        margin-left: -80%;
-        position: relative;
-        z-index: -1
+        margin-left: -110%;
     }
 }
 
