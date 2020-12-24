@@ -783,7 +783,7 @@
     .top_sc2 .service_list>li h3 span {
         font-size: 18px;
         display: block;
-        color: white
+        color: #202253
     }
     .top_sc2 .service_list>li h3 a {
         display: block
@@ -797,11 +797,11 @@
     .top_sc2 .service_list>li h3 a span:before {
         content: "";
         position: absolute;
-        bottom: 4px;
+        bottom: 5px;
         left: 0;
         height: 2px;
         width: 0;
-        background-color: #fff;
+        background-color: #2b2d6b;
         transition: all .6s cubic-bezier(.83, 0, .06, 1)
     }
     .top_sc2 .service_list>li .service_detail_list {
@@ -4596,19 +4596,19 @@
         display: block
     }
     .top_sc2 .service_list>li h3 span.f_yumin.planning {
-        background: url(../img/top/service/stl_planing_sp%402x.png);
+        background: url(../img/top/service/ses_business_sp.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
     }
     .top_sc2 .service_list>li h3 span.f_yumin.marketing {
-        background: url(../img/top/service/stl_marketing_sp%402x.png);
+        background: url(../img/top/service/web_create_sp.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
     }
     .top_sc2 .service_list>li h3 span.f_yumin.creative {
-        background: url(../img/top/service/stl_crelative_sp%402x.png);
+        background: url(../img/top/service/development_sp.svg);
         background-repeat: no-repeat;
         background-position: center top;
         background-size: auto 12px
@@ -5213,7 +5213,7 @@
         text-align: center;
         position: relative;
         background-blend-mode: multiply;
-        background-color: #fbf5e7;
+        background-color: #f0f0ff;
     }
     .top_sc6 .read_box:after {
         content: "";
@@ -5377,7 +5377,7 @@
         width: 140px
     }
     footer {
-        background: url(../img/common/footer_bg_sp%402x.png) #45403a;
+        background: url(../img/common/footer_bg_sp.jpg) #000;
         background-size: 100%;
         background-position: right top 20px;
         background-repeat: no-repeat;
@@ -5402,11 +5402,12 @@
     }
     footer dd {
         line-height: 16px;
-        font-size: 12px
+        font-size: 12px;
+        color: #d4d6d887;
     }
     footer small {
         font-family: Open Sans;
-        color: #88827c;
+        color: #d4d6d887;
         font-size: 11px
     }
     footer a {
@@ -5706,7 +5707,7 @@
         font-size: 16px
     }
     .container a {
-        color: #806e66;
+        color: #d4d6d887;
     }
     .contact_head p a {
         color: #806e66;
@@ -7612,7 +7613,7 @@ body::-webkit-scrollbar {
 
 @media screen and (max-width:480px) {
     #player {
-        margin-left: -110%;
+        margin-left: -30%;
     }
 }
 
