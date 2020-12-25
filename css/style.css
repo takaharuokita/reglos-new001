@@ -6166,7 +6166,9 @@
         background-size: cover;
         background-position: top center;
         padding: 42px 0 6px;
-        position: relative
+        position: relative;
+        background-blend-mode: multiply;
+        background-color: #9599d23d;
     }
     .aboutus_sc1 .h2_txt_wrap .top_sc4 .read_box:after {
         content: "";
@@ -6212,8 +6214,8 @@
         margin-bottom: 45px
     }
     .aboutus_sc1 .img_box img {
-        width: 80%;
-        display: none;
+        width: 65%;
+        margin-top: 40px;
     }
     .aboutus_sc2 .sc_inner {
         width: 100%;
@@ -6300,7 +6302,7 @@
         background-position: top right;
         background-repeat: no-repeat;
         padding: 32px 0;
-        position: relative
+        position: relative;
     }
     .aboutus_sc3 .h2_txt_wrap .top_sc4 .read_box:after {
         content: "";
@@ -6316,8 +6318,8 @@
         color: #fff;
         font-size: 28px;
         line-height: 40px;
-        width: 100px;
-        height: 380px;
+        width: 120px;
+        height: 420px;
         display: block;
         margin: 0 auto 0;
         padding: 20px 0;
