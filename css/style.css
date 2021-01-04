@@ -3510,7 +3510,7 @@
         text-decoration: none
     }
     .works_box_pager .pager_cell .pager_list li a.num.is-current {
-        background-color: #0c2041;
+        background-color: #212121;
         color: #fff;
         text-decoration: none
     }
@@ -7265,7 +7265,7 @@
         width: 100%;
         margin-bottom: 0;
         box-sizing: border-box;
-        background: #0c2041
+        background: #212121
     }
     .works_box_pager .pager_cell {
         font-size: 13px;
