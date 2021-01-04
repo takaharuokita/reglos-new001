@@ -308,8 +308,8 @@
     }
     .gnav_list li:nth-child(1) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(1) a:after {
@@ -324,7 +324,7 @@
     }
     .gnav_list li:nth-child(1) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(2) {
         margin-left: 80px;
@@ -332,8 +332,8 @@
     }
     .gnav_list li:nth-child(2) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(2) a:after {
@@ -348,7 +348,7 @@
     }
     .gnav_list li:nth-child(2) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(3) {
         margin-left: 120px;
@@ -356,8 +356,8 @@
     }
     .gnav_list li:nth-child(3) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(3) a:after {
@@ -372,7 +372,7 @@
     }
     .gnav_list li:nth-child(3) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(4) {
         margin-left: 160px;
@@ -380,8 +380,8 @@
     }
     .gnav_list li:nth-child(4) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(4) a:after {
@@ -396,7 +396,7 @@
     }
     .gnav_list li:nth-child(4) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(5) {
         margin-left: 200px;
@@ -404,8 +404,8 @@
     }
     .gnav_list li:nth-child(5) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(5) a:after {
@@ -420,7 +420,7 @@
     }
     .gnav_list li:nth-child(5) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(6) {
         margin-left: 240px;
@@ -428,8 +428,8 @@
     }
     .gnav_list li:nth-child(6) a {
         position: relative;
-        color: #797676;
-        text-shadow: 1px 2px 3px #dcdcdc;
+        color: #cecece;
+        text-shadow: 1px 2px 3px #817b98;
         font-size: 25px;
     }
     .gnav_list li:nth-child(6) a:after {
@@ -444,7 +444,7 @@
     }
     .gnav_list li:nth-child(6) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(7) {
         margin-left: 280px;
@@ -468,7 +468,7 @@
     }
     .gnav_list li:nth-child(7) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .gnav_list li:nth-child(8) {
         margin-left: 320px;
@@ -492,7 +492,7 @@
     }
     .gnav_list li:nth-child(8) a:hover:after {
         width: 230px;
-        background-color: #8f8f8f
+        background-color: #958fac
     }
     .main_v_area_wrap {
         height: 100vh;
@@ -906,8 +906,8 @@
         height: 100%
     }
     .slider_works .prev_arrow:hover {
-        border-left: 1px solid #8f8f8f;
-        border-bottom: 1px solid #8f8f8f
+        border-left: 1px solid #958fac;
+        border-bottom: 1px solid #958fac
     }
     .slider_works .next_arrow {
         display: inline-block;
@@ -926,8 +926,8 @@
         height: 100%
     }
     .slider_works .next_arrow:hover {
-        border-right: 1px solid #8f8f8f;
-        border-bottom: 1px solid #8f8f8f
+        border-right: 1px solid #958fac;
+        border-bottom: 1px solid #958fac
     }
     .slider_works .works_list_pc {
         position: absolute;
@@ -975,7 +975,7 @@
         vertical-align: middle
     }
     .slider_works .works_list_tl .works_cate {
-        color: #8f8f8f;
+        color: #958fac;
         font-size: 13px;
         display: inline-block;
         font-weight: 700;
@@ -989,7 +989,7 @@
         left: 0;
         width: 0;
         height: 1px;
-        background-color: #8f8f8f;
+        background-color: #958fac;
         transition: all .6s cubic-bezier(.83, 0, .06, 1)
     }
     .slider_works .works_list_tl .works_cate:hover:after {
@@ -4110,6 +4110,7 @@
         display: none;
         background: url(../img/common/bg_menu.jpg);
         background-size: cover;
+        background-position: bottom;
         width: 100%;
         height: 100vh;
         -webkit-overflow-scrolling: touch;
@@ -4151,7 +4152,8 @@
     }
     .gnav_list li:nth-child(1) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(1) a img {
         height: 15px
@@ -4170,7 +4172,8 @@
     }
     .gnav_list li:nth-child(2) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(2) a img {
         height: 15px
@@ -4189,7 +4192,8 @@
     }
     .gnav_list li:nth-child(3) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(3) a img {
         height: 15px
@@ -4208,7 +4212,8 @@
     }
     .gnav_list li:nth-child(4) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(4) a img {
         height: 15px
@@ -4227,7 +4232,8 @@
     }
     .gnav_list li:nth-child(5) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(5) a img {
         height: 15px
@@ -4246,7 +4252,8 @@
     }
     .gnav_list li:nth-child(6) a {
         position: relative;
-        color: #0c2041;
+        color: #8ca0c1;
+        text-shadow: 1px 2px 3px #a08b8b;
     }
     .gnav_list li:nth-child(6) a img {
         height: 15px
