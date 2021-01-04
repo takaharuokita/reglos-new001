@@ -1750,7 +1750,7 @@
     }
     .topice_path li {
         display: inline-block;
-        color: #806e66;
+        color: #23278f;
         font-size: 11px
     }
     .topice_path li:after {
@@ -1935,7 +1935,7 @@
         margin-bottom: 115px
     }
     .contact_head p a {
-        color: #806e66;
+        color: #4d576d;
         text-decoration: underline
     }
     .contact_head p a:hover {
