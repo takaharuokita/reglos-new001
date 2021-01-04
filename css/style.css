@@ -7787,9 +7787,19 @@ a:hover {
     color: #88724a
 }
 
+footer ul {
+    text-align: right;
+}
+
+@media screen and (min-width:769px) and (max-width:1600px) {
+    footer ul {
+        text-align: left;
+    }
+}
+
 ul {
     list-style-position: outside;
-    list-style-type: none
+    list-style-type: none;
 }
 
 ol {
