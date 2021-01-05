@@ -650,7 +650,7 @@
     }
     .main_v_area .txt_box {
         position: absolute;
-        top: 40%;
+        top: 37%;
         left: 50%;
         width: 600px;
         margin-left: -295px;
@@ -659,7 +659,7 @@
         z-index: 500;
     }
     .main_v_area .txt_box .jp {
-        margin-bottom: 20px;
+        margin-bottom: 30px;
         font-size: 44px;
         color: #FFF;
         letter-spacing: .04em
