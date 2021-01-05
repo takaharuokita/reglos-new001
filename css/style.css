@@ -896,8 +896,8 @@
         display: inline-block;
         width: 30px;
         height: 30px;
-        border-left: 1px solid #806e66;
-        border-bottom: 1px solid #806e66;
+        border-left: 1px solid #23278f;
+        border-bottom: 1px solid #23278f;
         transform: rotate(45deg);
         position: absolute;
         top: 29%;
@@ -916,8 +916,8 @@
         display: inline-block;
         width: 30px;
         height: 30px;
-        border-right: 1px solid #806e66;
-        border-bottom: 1px solid #806e66;
+        border-right: 1px solid #23278f;
+        border-bottom: 1px solid #23278f;
         transform: rotate(-45deg);
         position: absolute;
         top: 29%;
@@ -5572,7 +5572,7 @@
     }
     .topice_path li {
         display: inline;
-        color: #806e66;
+        color: #23278f;
         font-size: 11px
     }
     .topice_path li:after {
@@ -5723,7 +5723,7 @@
         margin: 10px auto;
     }
     .container h4 {
-        font-size: 16px
+        font-size: 16px;
     }
     .container a {
         color: #d4d6d887;
