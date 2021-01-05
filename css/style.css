@@ -11,6 +11,9 @@
         border-radius: 5px;
         display: flex
     }
+    .top_logo img {
+        display: none;
+    }
     .css404 {
         font-size: 12px
     }
@@ -128,8 +131,8 @@
     }
     .head_btn {
         position: absolute;
-        top: 8px;
-        right: 42px;
+        top: 10px;
+        right: 32px;
         padding-top: 10px;
         width: 32px;
         height: 34px;
@@ -647,17 +650,17 @@
     }
     .main_v_area .txt_box {
         position: absolute;
-        top: 30%;
+        top: 40%;
         left: 50%;
-        width: 355px;
-        margin-left: -178px;
+        width: 600px;
+        margin-left: -320px;
         text-align: center;
         padding-bottom: 50px;
-        z-index: 500
+        z-index: 500;
     }
     .main_v_area .txt_box .jp {
         margin-bottom: 20px;
-        font-size: 28px;
+        font-size: 44px;
         color: #FFF;
         letter-spacing: .04em
     }
@@ -4083,8 +4086,16 @@
     .head_btn {
         z-index: 1000
     }
+    .tl_h1 img {
+        width: 140px;
+        margin-top: 8px!important;
+        margin-left: 8px!important;
+    }
     .head_btn.disp {
         position: fixed
+    }
+    .top_logo img {
+        display: block;
     }
     .head_btn.disp span {
         background-color: #fff
@@ -4306,7 +4317,7 @@
         left: 0
     }
     .main_v_area_wrap {
-        height: 60vh;
+        height: 80vh;
         position: relative
     }
     .main_v_area_wrap.second {
@@ -4333,7 +4344,7 @@
     .main_v_area {
         position: relative;
         z-index: 9000;
-        height: 60vh;
+        height: 82vh;
         width: 100%;
         overflow: hidden
     }
@@ -4427,7 +4438,7 @@
         font-size: 17px;
         color: #fff;
         letter-spacing: .05em;
-        margin-bottom: 60px;
+        margin-bottom: 78px;
         display: block;
         white-space: nowrap;
         text-indent: 100%;
