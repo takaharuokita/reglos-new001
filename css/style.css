@@ -3892,10 +3892,6 @@
         display: none;
         z-index: 1000
     }
-    .head_logo img {
-        width: 90px;
-        margin-top: -7%;
-    }
     .second.disp .head_btn {
         position: fixed
     }
@@ -4090,6 +4086,11 @@
         width: 140px;
         margin-top: 8px!important;
         margin-left: 8px!important;
+    }
+    .head_logo img {
+        width: 140px;
+        margin-top: -7%!important;
+        margin-left: -5px!important;
     }
     .head_btn.disp {
         position: fixed
