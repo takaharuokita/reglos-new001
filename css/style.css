@@ -4428,11 +4428,11 @@
     }
     .main_v_area .txt_box {
         position: absolute;
-        top: 30%;
+        top: 35%;
         left: 50%;
         width: 325px;
         text-align: center;
-        margin-left: -129px;
+        margin-left: -148px;
         z-index: 500
     }
     .main_v_area .txt_box .en {
