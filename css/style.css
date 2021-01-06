@@ -7836,7 +7836,7 @@ select::-ms-expand {
 @media screen and (max-width:480px) {
     .main_v_area .txt_box {
         position: absolute;
-        top: 31%;
+        top: 33%;
         left: 50%;
         width: 320px;
         text-align: center;
