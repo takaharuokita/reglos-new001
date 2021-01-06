@@ -7845,7 +7845,7 @@ select::-ms-expand {
     }
     .loading img {
         position: absolute;
-        top: -130px;
+        top: -140px;
         left: 0;
         right: 0;
         bottom: 0;
