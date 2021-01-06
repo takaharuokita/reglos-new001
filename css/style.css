@@ -7838,9 +7838,9 @@ select::-ms-expand {
         position: absolute;
         top: 31%;
         left: 50%;
-        width: 260px;
+        width: 320px;
         text-align: center;
-        margin-left: -120px;
+        margin-left: -160px;
         z-index: 500;
     }
     .loading img {
@@ -7850,6 +7850,30 @@ select::-ms-expand {
         right: 0;
         bottom: 0;
         margin: auto;
+    }
+}
+
+@media screen and (min-width:414px) and (max-width:479px) {
+    .main_v_area .txt_box {
+        position: absolute;
+        top: 31%;
+        left: 50%;
+        width: 360px;
+        text-align: center;
+        margin-left: -180px;
+        z-index: 500;
+    }
+}
+
+@media screen and (max-width:322px) {
+    .main_v_area .txt_box {
+        position: absolute;
+        top: 31%;
+        left: 50%;
+        width: 280px;
+        text-align: center;
+        margin-left: -140px;
+        z-index: 500;
     }
 }
 
